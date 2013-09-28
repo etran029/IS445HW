@@ -1,7 +1,11 @@
 ﻿body { 
-	background: cyan; 
+	background: #ffffff; 
     width: 750px;
-} 
+}
+
+h1 {
+    text-align: center;
+}
 
 #menu { 
 	display: none; 
